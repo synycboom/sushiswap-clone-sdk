@@ -33,7 +33,7 @@ export const computeHybridPoolAddress = ({
   const HYBRID_POOL_INIT_CODE_HASH = computePoolInitCodeHash({
     creationCode: hybridPoolArtifact.bytecode,
     deployData,
-    masterDeployerAddress: EXPORTS[ChainId.KOVAN][0].contracts.MasterDeployer.address,
+    masterDeployerAddress: (EXPORTS as any)[ChainId.KOVAN][0].contracts.MasterDeployer.address,
   })
 
   // Compute pool address
