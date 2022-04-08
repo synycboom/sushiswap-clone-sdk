@@ -3164,18 +3164,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@synycboom-sushiswap-clone/bentobox-sdk@workspace:packages/bentobox-sdk":
+"@synycboom/sushiswap-clone-bentobox-sdk@workspace:packages/bentobox-sdk":
   version: 0.0.0-use.local
-  resolution: "@synycboom-sushiswap-clone/bentobox-sdk@workspace:packages/bentobox-sdk"
+  resolution: "@synycboom/sushiswap-clone-bentobox-sdk@workspace:packages/bentobox-sdk"
   dependencies:
     "@sushiswap/core-sdk": 1.0.0-canary.91
     tsdx: ^0.14.1
   languageName: unknown
   linkType: soft
 
-"@synycboom-sushiswap-clone/core-sdk@workspace:packages/core-sdk":
+"@synycboom/sushiswap-clone-core-sdk@workspace:packages/core-sdk":
   version: 0.0.0-use.local
-  resolution: "@synycboom-sushiswap-clone/core-sdk@workspace:packages/core-sdk"
+  resolution: "@synycboom/sushiswap-clone-core-sdk@workspace:packages/core-sdk"
   dependencies:
     "@ethersproject/address": ^5.4.0
     "@ethersproject/bignumber": ^5.4.0
@@ -3192,9 +3192,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@synycboom-sushiswap-clone/kashi-sdk@workspace:packages/kashi-sdk":
+"@synycboom/sushiswap-clone-kashi-sdk@workspace:packages/kashi-sdk":
   version: 0.0.0-use.local
-  resolution: "@synycboom-sushiswap-clone/kashi-sdk@workspace:packages/kashi-sdk"
+  resolution: "@synycboom/sushiswap-clone-kashi-sdk@workspace:packages/kashi-sdk"
   dependencies:
     "@ethersproject/abi": ^5.4.0
     "@ethersproject/contracts": ^5.4.0
@@ -3203,9 +3203,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@synycboom-sushiswap-clone/limit-order-sdk@workspace:packages/limit-order-sdk":
+"@synycboom/sushiswap-clone-limit-order-sdk@workspace:packages/limit-order-sdk":
   version: 0.0.0-use.local
-  resolution: "@synycboom-sushiswap-clone/limit-order-sdk@workspace:packages/limit-order-sdk"
+  resolution: "@synycboom/sushiswap-clone-limit-order-sdk@workspace:packages/limit-order-sdk"
   dependencies:
     "@ethersproject/abi": ^5.4.0
     "@ethersproject/abstract-signer": ^5.4.0
@@ -3221,17 +3221,17 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@synycboom-sushiswap-clone/miso-sdk@workspace:packages/miso-sdk":
+"@synycboom/sushiswap-clone-miso-sdk@workspace:packages/miso-sdk":
   version: 0.0.0-use.local
-  resolution: "@synycboom-sushiswap-clone/miso-sdk@workspace:packages/miso-sdk"
+  resolution: "@synycboom/sushiswap-clone-miso-sdk@workspace:packages/miso-sdk"
   dependencies:
     tsdx: ^0.14.1
   languageName: unknown
   linkType: soft
 
-"@synycboom-sushiswap-clone/tines@workspace:packages/tines":
+"@synycboom/sushiswap-clone-tines@workspace:packages/tines":
   version: 0.0.0-use.local
-  resolution: "@synycboom-sushiswap-clone/tines@workspace:packages/tines"
+  resolution: "@synycboom/sushiswap-clone-tines@workspace:packages/tines"
   dependencies:
     "@ethersproject/bignumber": ^5.4.0
     "@sushiswap/core-sdk": 1.0.0-canary.91
@@ -3241,9 +3241,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@synycboom-sushiswap-clone/trident-sdk@workspace:packages/trident-sdk":
+"@synycboom/sushiswap-clone-trident-sdk@workspace:packages/trident-sdk":
   version: 0.0.0-use.local
-  resolution: "@synycboom-sushiswap-clone/trident-sdk@workspace:packages/trident-sdk"
+  resolution: "@synycboom/sushiswap-clone-trident-sdk@workspace:packages/trident-sdk"
   dependencies:
     "@ethersproject/abi": ^5.4.0
     "@ethersproject/bignumber": ^5.4.0

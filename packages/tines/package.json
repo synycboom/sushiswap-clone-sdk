@@ -1,5 +1,5 @@
 {
-  "name": "@synycboom-sushiswap-clone/tines",
+  "name": "@synycboom/sushiswap-clone-tines",
   "version": "1.0.1",
   "license": "MIT",
   "main": "dist/index.js",
@@ -33,5 +33,5 @@
     "seedrandom": "^3.0.5",
     "tsdx": "^0.14.1"
   },
-  "gitHead": "b2240c1455ce0823e1a38114a00d76122081d72c"
+  "gitHead": "42708107634b940e6d8dce6767694bd9cefad134"
 }
