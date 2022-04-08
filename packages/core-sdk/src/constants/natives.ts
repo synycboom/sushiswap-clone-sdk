@@ -6,6 +6,7 @@ import {
   Fantom,
   Fuse,
   Glmr,
+  Godwoken,
   Harmony,
   Heco,
   Matic,
@@ -49,4 +50,5 @@ export const NATIVE: NativeMap = {
   [ChainId.FUSE]: Fuse.onChain(ChainId.FUSE),
   [ChainId.TELOS]: Telos.onChain(ChainId.TELOS),
   [ChainId.MOONBEAM]: Glmr.onChain(ChainId.MOONBEAM),
+  [ChainId.GODWOKEN]: Godwoken.onChain(ChainId.GODWOKEN),
 }

@@ -1,6 +1,6 @@
 {
-  "name": "@sushiswap/trident-sdk",
-  "version": "1.0.0-canary.102",
+  "name": "@synycboom-sushiswap-clone/trident-sdk",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",

@@ -28,4 +28,5 @@ export const INIT_CODE_HASH: { [chainId: number]: string } = {
   [ChainId.FUSE]: '0x1901958ef8b470f2c0a3875a79ee0bd303866d85102c0f1ea820d317024d50b5',
   [ChainId.TELOS]: '0xe18a34eb0e04b04f7a0ac29a6e80748dca96319b42c54d679cb821dca90c6303',
   [ChainId.MOONBEAM]: '0xe18a34eb0e04b04f7a0ac29a6e80748dca96319b42c54d679cb821dca90c6303',
+  [ChainId.GODWOKEN]: '0xeba2e349904f5b2c1f6086ffb00d5c7efb4a2c8ea8af2efccfd1c812c7869b6c',
 }
